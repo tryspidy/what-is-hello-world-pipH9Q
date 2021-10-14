@@ -1,0 +1,6 @@
+to learn a new conputer language you look at example code  
+a very small computer program to write Hello, World! on your screen. 
+is written using different programming languages.
+it teaches you the basics 
+so now ... use grepper to search "hello world <put a language here>"
+												without the < > bits
